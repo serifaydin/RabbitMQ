@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/serifaydin/RabbitMQ/blob/master/1.PNG">
+  <img src="https://github.com/serifaydin/RabbitMQ/blob/master/1.PNG">
 </p>
 
 <p align="center">
