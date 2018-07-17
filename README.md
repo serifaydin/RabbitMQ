@@ -1,3 +1,5 @@
+Youtube : https://www.youtube.com/watch?v=NwVbiYet1iI&feature=youtu.be
+
 <p align="center">
   <img src="https://github.com/serifaydin/RabbitMQ/blob/master/1.PNG">
 </p>
